@@ -12,6 +12,7 @@ The data need not be downloaded, as the scraper is included in the notebook and 
 
 ## Requirements
 This notebook was written in Python 3.9.7. The required packages and versions I used are:
+```
 numpy==1.23.5
 pandas==1.5.3
 matplotlib==3.7.0
@@ -19,5 +20,5 @@ seaborn==0.12.1
 kaggle==1.5.13
 statsmodels==0.13.5
 scikit-learn==1.2.1
-
+```
 (also included in requirements.txt)
